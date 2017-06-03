@@ -71,7 +71,7 @@ installed.
 Windows extras
 --------------
 
-If you are developng on Windows, you may also need the following which
+If you are developing on Windows, you may also need the following which
 provides a better alternative to the built-in Windows tools:
 
   - `Git Bash <https://git-scm.com/downloads>`__
